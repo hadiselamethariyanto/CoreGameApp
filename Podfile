@@ -6,5 +6,8 @@ target 'Common' do
   use_frameworks!
 
   # Pods for Common
+  pod "RealmSwift"
+  pod "Kingfisher"
+  pod "Alamofire"
 
 end
